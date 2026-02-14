@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💖 Valentine's Day Proposal App 💖
 
-# Run and deploy your AI Studio app
+A cute, interactive, and fun web application to ask your special someone to be your Valentine. This app presents a simple question with a "Yes" and a "No" button, but with a playful twist!
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1PhQ1OMRdys9kN5NmceFa3ucFkCJRyI1n
+- **Interactive Proposal:** A clear and sweet "Will you be my Valentine?" message.
+- **Playful "No" Button:** Try to click "No", and watch it cheekily dodge your cursor, moving to a new random position on the screen.
+- **Growing "Yes" Button:** Each time an attempt is made on the "No" button, the "Yes" button grows bigger and more enticing.
+- **Celebration Screen:** A heartwarming confirmation with a cute animation appears after "Yes" is clicked.
+- **Easy Sharing:** A "Share with your love" button that copies the app's link to the clipboard, making it simple to send the proposal message.
 
-## Run Locally
+## 🚀 How to Use
 
-**Prerequisites:**  Node.js
+1.  Open the application link in your browser.
+2.  Click the **"Share with your love"** button at the bottom of the page.
+3.  The link is now copied to your clipboard.
+4.  Paste the link in a message to your girlfriend and send it!
 
+## 🛠️ Built With
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Tailwind CSS
+
+---
